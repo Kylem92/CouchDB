@@ -1,0 +1,2 @@
+double click couch-cars.iml to open project
+or there is an executable jar file in the target folder
